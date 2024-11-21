@@ -1,0 +1,21 @@
+
+#main_title{
+    text-align: center;
+    background-color: #48c2be;
+    color: #fff;    
+    padding: 10px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.box1 .head{
+    float: left;
+
+}
+.box1 .btn{
+    float: right;
+   
+}
+.container{
+    margin-top: 6px;
+}
+
