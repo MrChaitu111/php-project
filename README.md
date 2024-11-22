@@ -16,7 +16,7 @@
 7.Now i can make this website by using Host name is :- aeonfree web hosting 
 -> url 🌐:-> https://web.aeonfree.com
 
-8.Website link or url 🌐:-> https://phpappcurd.iceiy.com
+8.Website link or url 🌐:-> https://simplephp.iceiy.com
 
 9.After that Thanks For visiting my website🙏🙏🙏..
 
