@@ -3,7 +3,7 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-<nk>
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP_CURD_OPERATIONS</title>
@@ -47,7 +47,7 @@
         }
 </style>
 <div class="heading">
-    <h3>Welcome to My website</h3>
+    <h3 class="text-dark">Welcome to My website</h3>
 </div>
 <marquee class="marq h-2" 
                  direction="left" loop="infinite">
