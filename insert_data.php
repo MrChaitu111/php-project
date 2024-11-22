@@ -8,7 +8,7 @@ include("dbcon.php");
         $content = $_POST['content'];
 
         if(empty($username) || empty($title) || empty($content)){
-            header('location:index.php?message=You Need to Fill the Username');      
+            header('location:home.php?message=You Need to Fill the Username');      
          }
          else{
             $query = "insert into `employe` (`username`,`title`,`content`) values ('$username','$title','$content')";
